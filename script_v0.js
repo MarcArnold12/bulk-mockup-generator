@@ -1,5 +1,5 @@
 #target photoshop
-//PHOTOSHOP SCRIPT 2020, stewcha.original@gmail.com
+//PHOTOSHOP SCRIPT 2020
 
 //setings
 app.displayDialogs = DialogModes.NO;
